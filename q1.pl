@@ -1,8 +1,3 @@
-% Mehrzad Bazhdanzadeh
-% YUID: 214-123-186
-% CSID: mehrzadb
-% Question 1
-
 % Sample rules
 % parent(john, paul).
 % parent(john, mary).
